@@ -1,0 +1,5 @@
+Werkzeug==2.2.2
+Flask
+tensorflow==2.14.0
+# Add any other dependencies
+Pandas
